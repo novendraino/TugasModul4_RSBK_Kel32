@@ -20,6 +20,8 @@ function Index() {
 
     return (
         <div className="Main">
+            <p className="Text">Ganjil Genap dengan useMemo</p>
+            <p>Kelompok 32</p>
             <div className="ViewImage1">
                     <img
                         className="App-logo"

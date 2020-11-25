@@ -22,6 +22,8 @@ function Index() {
 
     return (
         <div className="Main">
+            <p className="Text">Counter with useReducer</p>
+            <p>Kelompok 32</p>
             <div className="ViewImage1">
                     <img
                         className="App-logo"
@@ -48,7 +50,7 @@ function Index() {
           </button>
                 </div>
             </div>
-            <h2>KELOMPOK 32</h2>
+            
         </div>
     );
 }
